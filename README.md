@@ -20,3 +20,12 @@ Assignment2_Task2.py
 
 Create varialbe tootal_sum ,make for loop with rane of 1 to 51 with step 1
 add  each iteration  of for loop n to total_sum which will give total sum of number form 1 to 50 
+
+Assignment3_Task1.py
+
+input number conversion into int for which factorial required ,function will retrun factorail of required number
+
+Assignment3_Task2.py
+
+import module math ,enter the number for which squareroot,log base e,sine radian is require
+we had created three function square_root,log_base_e,sine and return required output
